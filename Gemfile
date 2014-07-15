@@ -37,6 +37,12 @@ end
 
 gem "devise"
 
+gem 'sabisu_rails'
+gem 'compass-rails'
+gem 'furatto'
+gem 'font-awesome-rails'
+gem 'simple_form'
+
 
 
 # Use ActiveModel has_secure_password
